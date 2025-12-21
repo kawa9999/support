@@ -1,11 +1,8 @@
 # support
 
-
-
-アプリ名：ScoreRecorder
+アプリ名：弓道記録管理
 
 お問い合わせ
 ご質問・不具合報告は以下までご連絡ください。
 
-メール：support@example.com
-
+メール：contact.kawa.app@gmail.com
