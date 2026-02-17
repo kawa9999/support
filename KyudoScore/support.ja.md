@@ -1,6 +1,6 @@
 # サポート
 
-アプリ名：弓道スコア管理 (Kyudo Record Management)
+アプリ名：弓道スコア管理 (Kyudo Score Management)
 
 ## このアプリについて
 このアプリは弓道スコア管理を簡単に行うためのアプリです。
