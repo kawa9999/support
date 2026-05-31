@@ -1,18 +1,20 @@
 # Privacy Policy
 
-Enjoy deep strategic gameplay with simple controls.
-combine them effectively, and use skills to maximize your score.
-Experience a new kind of cross puzzle game, perfect for both quick sessions and longer play.
+Icon Resize is an image editing application that allows users to resize images, apply custom shapes, and save them as PNG files.
 
 [Information Collected]
 This app does not collect user personal information (such as name or email address).
 
-[About Advertising]
-This app may use a third-party advertising service (Google AdMob).
-Advertisers may use cookies and other technologies to display ads tailored to your interests.
+[Photos and Images]
+Images selected by the user are used solely for loading, editing, and saving within the application.
+All image processing is performed locally on the user's device. Image data is never transmitted to the developer's servers.
 
-[Purpose of Use]
-Collected information will only be used to provide app functionality and improve its quality.
+[Internet Connectivity]
+The core functionality of this application does not require an internet connection.
+
+[About Advertising]
+This application does not display advertisements.
+If advertisements are added in the future, this Privacy Policy will be updated accordingly.
 
 [Provision to Third Parties]
 Collected information will not be provided to third parties.
