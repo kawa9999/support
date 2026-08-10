@@ -1,6 +1,6 @@
 # Support
 
-App Name: Local Music Player
+App Name: MusicShelf Offline Player
 
 ## About This App
 A simple local media player for playing music and video files stored on your device.
