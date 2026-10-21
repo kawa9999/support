@@ -3,7 +3,8 @@
 App Name: DiffNote
 
 ## About This App
-A simple local media player for playing music and video files stored on your device.
+A note app that puts two texts side by side and shows you what changed, at a glance.
+Great for comparing drafts, revisions, or any two versions of a text.
 
 ## Contact Us
 For questions or bug reports, please contact us at the address below.
