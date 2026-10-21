@@ -1,9 +1,10 @@
 # Privacy Policy
 
-A local media player for enjoying music and video files stored on your device.
-Import files easily from the Files app, organize them into folders, and play them anytime. 
-Features include background playback, Lock Screen controls, playlists, playback position resume, playback speed adjustment, A-B repeat, and a sleep timer.
-Enjoy your local music and videos anytime, even without an internet connection.
+This app displays the camera feed with a configurable delay.
+
+
+
+
 
 [Information Collected]
 This app does not collect user personal information (such as name or email address).
