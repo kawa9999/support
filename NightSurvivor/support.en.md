@@ -25,10 +25,6 @@ When ads are off, the ad buttons are hidden and you receive bonuses such as extr
 Game data is stored only on your device. Transferring data to another device is not supported.
 Please note that deleting the app also deletes your data.
 
-### I want to start over
-Use "Reset Data" in Settings on the title screen to erase your records, achievements, gold, and upgrades.
-"Reset Upgrades" sets all upgrades back to 0 and refunds the gold you spent.
-
 ## Contact
 For questions or bug reports, please contact us at the email address below.
 For bug reports, please include your device model, iOS version, and what happened.
