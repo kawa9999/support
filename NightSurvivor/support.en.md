@@ -2,7 +2,7 @@
 
 ## Eternal Night Hunter: Survivor
 A roguelite survival game where you fight off endless hordes of monsters to survive the night.
-Level up, choose weapons and passives, and take on the true bosses of the Eternal Night, Ruins, Labyrinth, and Turning Tide stages.
+Level up, choose weapons and passives, and take on the bosses of the Eternal Night, Ruins, Labyrinth, and Turning Tide stages.
 
 ## Requirements
 - iPhone / iPad with iOS 18.6 or later
