@@ -1,25 +1,27 @@
 # Privacy Policy
 
-A local media player for enjoying music and video files stored on your device.
-Import files easily from the Files app, organize them into folders, and play them anytime. 
-Features include background playback, Lock Screen controls, playlists, playback position resume, playback speed adjustment, A-B repeat, and a sleep timer.
-Enjoy your local music and videos anytime, even without an internet connection.
+This policy explains how "Eternal Night Hunter: Survivor" (the "App") handles user information.
 
-[Information Collected]
-This app does not collect user personal information (such as name or email address).
+## Information We Collect
+The App does not collect personal information such as your name or email address.
+Game progress and settings are stored only on your device and are never sent to the developer.
 
-[About Advertising]
-This app may use a third-party advertising service (Google AdMob).
-Advertisers may use cookies and other technologies to display ads tailored to your interests.
+## Advertising
+The App uses Google AdMob, an advertising service provided by Google LLC.
+To deliver ads, measure their performance, and prevent fraud, AdMob may collect the following information:
+- Device identifiers, such as the Identifier for Advertisers (IDFA)
+- IP address, device model, OS version, and language settings
+- Ad interactions, such as impressions, views, and taps
 
-[Purpose of Use]
-Collected information will only be used to provide app functionality and improve its quality.
+Users in the European Economic Area (EEA), the United Kingdom, and Switzerland will be asked for consent to personalized advertising.
+For details on how this information is used, please see Google's policy:
+https://policies.google.com/technologies/ads
 
-[Provision to Third Parties]
-Collected information will not be provided to third parties.
+## Sharing with Third Parties
+The developer does not share user information with third parties, except for the information collected by the advertising service described above.
 
-[Contact Us]
-For inquiries, please contact us via the support URL listed on the App Store.
+## Contact
+contact.kawa.app@gmail.com
 
-[Changes]
-This policy is subject to change without notice.
+## Changes to This Policy
+This policy may be updated as needed. Any changes take effect when they are posted on this page.
